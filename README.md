@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KevinGastelum!
+<h2> 👋 Hi, I’m @KevinGastelum! <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" height="40" style="vertical-align: text-bottom;"></h2> 
 - 👀 I’m interested in ML/AI and Blockchain Technology
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything and everything ...
