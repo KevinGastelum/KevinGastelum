@@ -1,6 +1,5 @@
 <h2> 👋 Hi, I’m Kevin Gastelum! <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" height="40" style="vertical-align: text-bottom;"></h2> 
 <img align='right' src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
-![](https://komarev.com/ghpvc/?username=KevinGastelum&blueviolet&style=plastic)
 
 - 👀 I’m interested in ML/AI and Blockchain Technology
 - 🌱 I’m currently learning Machine Learning
