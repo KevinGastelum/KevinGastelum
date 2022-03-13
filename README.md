@@ -15,9 +15,8 @@ You can click the Preview link to take a look at your changes.
 &label=PROFILE+VIEWS
 -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingastelum&label=Profile%20views&color=0e75b6&style=flat" alt="kevingastelum" /> </p>
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p> 
 
 <h3 align="right">My learning apps:</h3>
 <p align="right">
