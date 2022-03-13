@@ -1,5 +1,4 @@
 <h2> 👋 Hi, I’m Kevin Gastelum! <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" height="40" style="vertical-align: text-bottom;"></h2> 
-<img align='right' src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
 
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Analysis
@@ -41,5 +40,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
+<img align='right' src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
 
 
