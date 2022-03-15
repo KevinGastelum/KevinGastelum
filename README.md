@@ -6,13 +6,13 @@
 - 💞️ I’m looking to collaborate on anything and everything ...
 - 📫 How to reach me 
 
-<!-- Twitter and LinkedIn badges-->
+<!-- Twitter and LinkedIn badges -->
 [![Twitter Badge](https://img.shields.io/badge/-@KevinGastelum77-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=KevinGastelum77)](https://twitter.com/intent/follow?screen_name=KevinGastelum77) [![Linkedin Badge](https://img.shields.io/badge/-Kevin_Gastelum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-alexis-gastelum-navarrete/)](https://www.linkedin.com/in/kevin-alexis-gastelum-navarrete/)
 
 <!-- Shows my stats -->
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p> -->
 
-<!-- Apps I use for learning -->
+<!-- Apps I use for learning Icons -->
 <h3 align="left">My learning apps:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevingastelum" height="30" width="40" /></a>
@@ -23,17 +23,18 @@
 <a href="https://www.topcoder.com/members/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="kevingastelum" height="30" width="40" /></a>
 </p>
 
-<!-- My languages and Tools -->
+<!-- My languages and Tools Icons -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.lua.org/manual/5.4/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
-<!-- View count -->
+<!-- View count badge -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingastelum&label=Profile%20views&color=0e75b6&style=flat" alt="kevingastelum" /> </p>
 
