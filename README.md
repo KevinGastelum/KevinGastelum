@@ -12,16 +12,6 @@
 <!-- Shows my stats -->
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p> -->
 
-<!-- Apps I use for learning Icons -->
-<h3 align="left">My learning apps:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="kevingastelum" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevingastelum" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevingastelum" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kevingastelum" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kevingastelum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kevingastelum" height="30" width="40" /></a>
-<a href="https://kaggle.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kevingastelum" height="30" width="40" /></a>
-</p>
 
 <!-- My languages and Tools Icons -->
 <h3 align="left">Languages and Tools:</h3>
@@ -34,6 +24,19 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
+
+
+<!-- Apps I use for learning Icons -->
+<h3 align="left">My learning apps:</h3>
+<p align="left">
+<a href="https://www.topcoder.com/members/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="kevingastelum" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevingastelum" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevingastelum" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kevingastelum" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kevingastelum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kevingastelum" height="30" width="40" /></a>
+<a href="https://kaggle.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kevingastelum" height="30" width="40" /></a>
+</p>
+
 
 <!-- View count badge -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingastelum&label=Profile%20views&color=0e75b6&style=flat" alt="kevingastelum" /> </p>
