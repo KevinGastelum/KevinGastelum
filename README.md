@@ -7,7 +7,7 @@
 - 📫 How to reach me 
 
 <!-- Twitter and LinkedIn badges -->
-[![Twitter Badge](https://img.shields.io/badge/-@KevinGastelum77-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=KevinGastelum77)](https://twitter.com/intent/follow?screen_name=KevinGastelum77) [![Linkedin Badge](https://img.shields.io/badge/-Kevin_Gastelum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-alexis-gastelum-navarrete/)](https://www.linkedin.com/in/kevin-alexis-gastelum-navarrete/)
+[![Twitter Badge](https://img.shields.io/badge/-@KevinGastelum77-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=KevinGastelum77)](https://twitter.com/intent/follow?screen_name=KevinGastelum77) [![Linkedin Badge](https://img.shields.io/badge/-Kevin_Gastelum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-gastelum/)](https://www.linkedin.com/in/kevin-gastelum/)
 
 <!-- Shows my stats -->
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p> -->
