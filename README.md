@@ -7,7 +7,8 @@
 - 📫 How to reach me 
 
 <!-- Twitter and LinkedIn badges -->
-[![Twitter Badge](https://img.shields.io/badge/-@KevinGastelum77-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=KevinGastelum77)](https://twitter.com/intent/follow?screen_name=KevinGastelum77) [![Linkedin Badge](https://img.shields.io/badge/-Kevin_Gastelum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-gastelum/)](https://www.linkedin.com/in/kevin-gastelum/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kevin_Gastelum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-gastelum/)](https://www.linkedin.com/in/kevin-gastelum/)
+[![Twitter Badge](https://img.shields.io/badge/-@KevinGastelum77-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=KevinGastelum77)](https://twitter.com/intent/follow?screen_name=KevinGastelum77) 
 
 <!-- Shows my stats -->
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p> -->
@@ -20,6 +21,10 @@
 <a href="https://reactjs.org/docs/hello-world.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.lua.org/manual/5.4/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/docs/online-resources/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+
+<a href="https://www.postgresql.org/docs/online-resources/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg" alt="postgresql" width="40" height="40"/> </a> 
+
+
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
