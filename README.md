@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
 
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently a Data Analyst
 - 💞️ I’m looking to collaborate on anything and everything ...
 - 📫 How to reach me 
 
@@ -27,7 +27,7 @@
 <a href="https://docs.microsoft.com/en-us/azure/?product=popular" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35"/> </a>
 <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://docs.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg" alt="powerbi" width="40" height="35"/> </a>
+<a href="https://docs.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="35"/> </a>
 <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://git-scm.com/docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
