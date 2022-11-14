@@ -23,7 +23,7 @@
 <a href="https://www.postgresql.org/docs/online-resources/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019-resources?rtc=2" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="microsoftsql" width="40" height="40"/> </a> 
 <a href="https://spark.apache.org/docs/latest/quick-start.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/> </a>
-<!-- --->
+
 <a href="https://docs.microsoft.com/en-us/azure/?product=popular" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35"/> </a>
 <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
