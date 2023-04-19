@@ -30,7 +30,7 @@
 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently a Data Analyst
-- 💞️ I’m looking to collaborate on anything and everything ...
+- 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me ...
 
 <!-- Twitter and LinkedIn badges -->
