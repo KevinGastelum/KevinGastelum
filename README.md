@@ -63,7 +63,7 @@
 <h3 align="left">My learning apps:</h3>
 <p align="left">
 
-<a href="https://www.codewars.com/users/kevingastelum" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="kevingastelum" height="30" width="30" /></a>
+<a href="https://www.codewars.com/users/kevingastelum" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="kevingastelum" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevingastelum" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevingastelum" height="30" width="40" /></a>
 <a href="https://kaggle.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kevingastelum" height="30" width="40" /></a>
