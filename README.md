@@ -45,7 +45,7 @@
 <p align="left"> 
 <a href="https://docs.python.org/3.10/tutorial/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://react.dev/learn" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.lua.org/manual/5.4/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> </a> 
+<a href="https://www.lua.org/manual/5.4/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/docs/online-resources/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019-resources?rtc=2" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="microsoftsql" width="40" height="40"/> </a> 
 <a href="https://spark.apache.org/docs/latest/quick-start.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/> </a>
