@@ -24,7 +24,7 @@
 ```
 -->
 
-<!-- TERMINAL  -->
+<!-- TERMINAL
 <div align="justify">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/R0ryGrN/output-gif.gif">
@@ -37,8 +37,8 @@
 <details>
 <summary>More details</summary>
 
-</details>
-</div>
+</details> -->
+<!-- </div> -->
 
 <!-- Name Gif -->
 
