@@ -16,9 +16,9 @@ def main():
 
     t.gen_text("", 1, count=20)
     t.toggle_show_cursor(False)
-    year_now = datetime.now(ZoneInfo("Asia/Kolkata")).strftime("%Y")
+    year_now = datetime.now(ZoneInfo("US/Arizona")).strftime("%Y")
     t.gen_text("GIF_OS Modular BIOS v1.0.11", 1)
-    t.gen_text(f"Copyright (C) {year_now}, \x1b[31mX0rzAvi Softwares Inc.\x1b[0m", 2)
+    t.gen_text(f"Copyright (C) {year_now}, \x1b[Kevin Software Incorporated\x1b[0m", 2)
     t.gen_text("\x1b[94mGitHub Profile ReadMe Terminal, Rev 1011\x1b[0m", 4)
     t.gen_text("Krypton(tm) GIFCPU - 250Hz", 6)
     t.gen_text(
@@ -60,14 +60,14 @@ def main():
     t.gen_text("\x1b[93mGIF OS v1.0.11 (tty1)\x1b[0m", 1, count=5)
     t.gen_text("login: ", 3, count=5)
     t.toggle_show_cursor(True)
-    t.gen_typing_text("x0rzavi", 3, contin=True)
+    t.gen_typing_text("KevinGastelum", 3, contin=True)
     t.gen_text("", 4, count=5)
     t.toggle_show_cursor(False)
     t.gen_text("password: ", 4, count=5)
     t.toggle_show_cursor(True)
     t.gen_typing_text("*********", 4, contin=True)
     t.toggle_show_cursor(False)
-    time_now = datetime.now(ZoneInfo("Asia/Kolkata")).strftime(
+    time_now = datetime.now(ZoneInfo("US/Arizona")).strftime(
         "%a %b %d %I:%M:%S %p %Z %Y"
     )
     t.gen_text(f"Last login: {time_now} on tty1", 6)
@@ -80,7 +80,7 @@ def main():
     t.gen_text("\x1b[92mclear\x1b[0m", 7, count=3, contin=True)
 
     ignore_repos = ["archiso-zfs", "archiso-zfs-archive"]
-    git_user_details = gifos.utils.fetch_github_stats("x0rzavi", ignore_repos)
+    git_user_details = gifos.utils.fetch_github_stats("KevinGastelum", ignore_repos)
     user_age = gifos.utils.calc_age(26, 7, 2002)
     t.clear_frame()
     top_languages = [lang[0] for lang in git_user_details.languages_sorted]
@@ -115,7 +115,7 @@ def main():
     t.gen_typing_text("\x1b[91mfetch.s", 1, contin=True)
     t.delete_row(1, prompt_col)
     t.gen_text("\x1b[92mfetch.sh\x1b[0m", 1, contin=True)
-    t.gen_typing_text(" -u x0rzavi", 1, contin=True)
+    t.gen_typing_text(" -u KevinGastelum", 1, contin=True)
 
     t.set_font(FONT_FILE_MONA, 16, 0)
     t.toggle_show_cursor(False)
