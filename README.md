@@ -34,7 +34,7 @@
     <img alt="GIFOS" src="https://i.ibb.co/R0ryGrN/output-gif.gif">
 </picture>
 
-<sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on Wed Feb 21 06:41:56 AM IST 2024</i></sub>
+<!-- <sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on Wed Feb 21 06:41:56 AM IST 2024</i></sub> -->
 
 <details>
 <summary>More details</summary>
@@ -43,6 +43,7 @@
 </div>
 
 <!-- <h2> 👋 Hi, I’m Kevin Gastelum! <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" height="40" style="vertical-align: text-bottom;"></h2>  -->
+<!-- Astro Boy img -->
 <img align='right' src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
 
 - 👀 I’m interested in Data Science
