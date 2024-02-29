@@ -2,6 +2,11 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 import gifos
+import os
+from dotenv import load_dotenv
+load_dotenv()
+github_token = os.environ.get('GIT_TOKEN')
+
 
 FONT_FILE_LOGO = "./fonts/vtks-blocketo.regular.ttf"
 # FONT_FILE_BITMAP = "./fonts/ter-u14n.pil"
@@ -80,12 +85,12 @@ def main():
     t.gen_text("\x1b[92mclear\x1b[0m", 7, count=3, contin=True)
 
     ignore_repos = ["archiso-zfs", "archiso-zfs-archive"]
-    git_user_details = gifos.utils.fetch_github_stats("KevinGastelum", ignore_repos)
+    git_user_details = gifos.utils.fetch_github_stats("KevinGastelum", ignore_repos, github_token)
     user_age = gifos.utils.calc_age(26, 7, 2002)
     t.clear_frame()
     top_languages = [lang[0] for lang in git_user_details.languages_sorted]
     user_details_lines = f"""
-    \x1b[30;101mx0rzavi@GitHub\x1b[0m
+    \x1b[30;101mKevinGastelum@GitHub\x1b[0m
     --------------
     \x1b[96mOS:     \x1b[93mArch/Gentoo Linux, Windows 11, Android 13\x1b[0m
     \x1b[96mHost:   \x1b[93mNetaji Subhash Engineering College \x1b[94m#NSEC\x1b[0m
@@ -95,8 +100,8 @@ def main():
     
     \x1b[30;101mContact:\x1b[0m
     --------------
-    \x1b[96mEmail:      \x1b[93mx0rzavi@gmail.com\x1b[0m
-    \x1b[96mLinkedIn:   \x1b[93mavishek-sen-x0rzavi\x1b[0m
+    \x1b[96mEmail:      \x1b[93mKevinGastelum@gmail.com\x1b[0m
+    \x1b[96mLinkedIn:   \x1b[93mavishek-sen-KevinGastelum\x1b[0m
     
     \x1b[30;101mGitHub Stats:\x1b[0m
     --------------
@@ -147,7 +152,7 @@ def main():
 
     t.set_font(FONT_FILE_BITMAP)
     t.toggle_show_cursor(True)
-    # t.pasteImage("./temp/x0rzavi.jpg", 3, 5, sizeMulti=0.5)
+    # t.pasteImage("./temp/KevinGastelum.jpg", 3, 5, sizeMulti=0.5)
     t.gen_text(user_details_lines, 2, 35, count=5, contin=True)
     t.gen_prompt(t.curr_row)
     t.gen_typing_text(
@@ -167,7 +172,7 @@ def main():
     <img alt="GIFOS" src="{image.url}">
 </picture>
 
-<sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on {time_now}</i></sub>
+<sub><i>Generated automatically using [KevinGastelum/github-readme-terminal](https://github.com/KevinGastelum/github-readme-terminal) on {time_now}</i></sub>
 
 <details>
 <summary>More details</summary>
