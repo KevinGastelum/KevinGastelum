@@ -96,7 +96,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm FujiwaraChoki (internet name), and I'm currently learning DL, Automation, Ruby and C++ (and C).<br>
+        I'm Kevin Gastelum, and I'm currently learning Data Science, Automation, Python and SQL.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <h2 align="center">Request a Service</h2>
