@@ -91,8 +91,8 @@
 <!-- ============================ V1 ============================ -->
 <!-- ============================ V1 ============================ -->
 <!-- ============================ V1 ============================ -->
-<h1 align="center">Hi, everyone! <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2533E&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Kevin+Gastelum!)](https://git.io/typing-svg) </h1>
+<h1 align="center">Hi, everyone! <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2533E&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Kevin+Gastelum!)](https://git.io/typing-svg)" width="28px" alt="👋"></h1>
+ </h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
