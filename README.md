@@ -90,11 +90,6 @@ Open to collaborating on interesting and innovative projects.<br>
 <!-- <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:bgosidfjsoi@proton.me">E-Mail</a> to see how I can help you.</p><br /> -->
 </p>
 
-<p align="center">
-<!-- Astro Boy img -->
-  <img src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
-</p>
-
 <div align="center">
 <a href="https://github.com/KevinGastelum" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -106,6 +101,10 @@ Open to collaborating on interesting and innovative projects.<br>
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
+<p align="center">
+  <!-- Astro Boy img -->
+  <img src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
+</p>
 
 ### Languages
 
