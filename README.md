@@ -94,15 +94,14 @@
 <!-- <h1 align="center">Hi, everyone! <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2533E&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Kevin+Gastelum!)](https://git.io/typing-svg)" width="28px" alt="👋"></h1></h1> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2533E&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Kevin+Gastelum!)](https://git.io/typing-svg)
+<b>Welcome to my page!</b><br><br>
+<i>
+I'm Kevin Gastelum, and I'm currently learning Data Science, Automation, Python and SQL.<br>
+Open to collaborating on interesting and innovative projects.<br>
+</i><br>
+<h2 align="center">Request a Service</h2>
+<p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me">E-Mail</a> to see how I can help you.</p><br />
 
-<p align="center"> -->
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Kevin Gastelum, and I'm currently learning Data Science, Automation, Python and SQL.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
-    <h2 align="center">Request a Service</h2>
-    <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me">E-Mail</a> to see how I can help you.</p><br />
 <!-- Astro Boy img -->
 <!-- <img align='right' src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230"> -->
 </p>
