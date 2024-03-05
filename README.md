@@ -99,6 +99,7 @@
 I'm Kevin Gastelum, and I'm currently learning Data Science, Automation, Python and SQL.<br>
 Open to collaborating on interesting and innovative projects.<br>
 </i><br>
+
 <h2 align="center">Request a Service</h2>
 <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me">E-Mail</a> to see how I can help you.</p><br />
 
@@ -167,6 +168,8 @@ Open to collaborating on interesting and innovative projects.<br>
 </p>
 <table><tr><td valign="top" width="33%">
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p>
+
 ### Frontend
 
 <div align="center">  
@@ -214,11 +217,11 @@ Open to collaborating on interesting and innovative projects.<br>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
 
+</td></tr></table>
+
 <!-- View count badge -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingastelum&label=Profile%20views&color=0e75b6&style=flat" alt="kevingastelum" /> </p> 
 </div>
-
-</td></tr></table>
 
 <br/>
 
