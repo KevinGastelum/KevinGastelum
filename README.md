@@ -166,9 +166,13 @@ Open to collaborating on interesting and innovative projects.<br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinGastelum&theme=transparent" />
   </a>
 </p>
+
+<!-- View count badge -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingastelum&label=Profile%20views&color=0e75b6&style=flat" alt="kevingastelum" /> </p>
+
 <table><tr><td valign="top" width="33%">
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p> -->
 
 ### Frontend
 
@@ -219,8 +223,6 @@ Open to collaborating on interesting and innovative projects.<br>
 
 </td></tr></table>
 
-<!-- View count badge -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingastelum&label=Profile%20views&color=0e75b6&style=flat" alt="kevingastelum" /> </p> 
 </div>
 
 <br/>
