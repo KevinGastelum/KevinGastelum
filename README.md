@@ -85,6 +85,10 @@
 I'm currently learning Data Science, Automation, ML, Python and SQL.<br>
 Open to collaborating on interesting and innovative projects.<br>
 </i><br>
+<p align="center">
+  <!-- Astro Boy img -->
+  <img src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
+</p>
 
 <h2 align="center">Check out my work</h2>
 <!-- <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:bgosidfjsoi@proton.me">E-Mail</a> to see how I can help you.</p><br /> -->
@@ -101,10 +105,6 @@ Open to collaborating on interesting and innovative projects.<br>
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-<p align="center">
-  <!-- Astro Boy img -->
-  <img src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
-</p>
 
 ### Languages
 
