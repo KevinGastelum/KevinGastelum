@@ -44,14 +44,11 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2533E&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Kevin+Gastelum!)](https://git.io/typing-svg) <br> -->
 
-<!-- Astro Boy img -->
-<!-- <img align='right' src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
-
-- 👀 I’m interested in Data Science
+<!-- - 👀 I’m interested in Data Science
 - 🌱 I’m currently a Data Analyst
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me....
-
+ -->
 <!-- Twitter and LinkedIn badges -->
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-Kevin_Gastelum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-gastelum/)](https://www.linkedin.com/in/kevin-gastelum/)
@@ -106,6 +103,8 @@
     </i><br>
     <h2 align="center">Request a Service</h2>
     <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me">E-Mail</a> to see how I can help you.</p><br />
+<!-- Astro Boy img -->
+<!-- <img align='right' src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
 </p>
 
 <p align="center">
