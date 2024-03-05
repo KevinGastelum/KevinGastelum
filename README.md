@@ -106,7 +106,8 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@fujiwarachoki?theme=asoul" />
+  <img src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" />
+  <!-- <img src="https://count.getloli.com/get/@fujiwarachoki?theme=asoul" /> -->
 </p>
 
 <div align="center">
