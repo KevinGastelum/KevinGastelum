@@ -99,7 +99,7 @@
 </div>
 
 <p align="center">
-<h2 align="center">Welcome to my page!</h2><br><br>
+<b>Welcome to my page!</b><br><br>
 <i>
 I'm Kevin Gastelum, and I'm currently learning Data Science, Automation, Python and SQL.<br>
 Open to collaborating on interesting and innovative projects.<br>
