@@ -99,10 +99,10 @@ Open to collaborating on interesting and innovative projects 💞️.<br>
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/KevinGastelum)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/KevinGastelum)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://docs.python.org/3.10/tutorial/index.html)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://react.dev/learn)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/KevinGastelum)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/KevinGastelum)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.postgresql.org/docs/online-resources/)
 
 <!-- [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/KevinGastelum) -->
 <!-- [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/KevinGastelum) -->
@@ -167,13 +167,12 @@ Open to collaborating on interesting and innovative projects 💞️.<br>
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019-resources?rtc=2" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="microsoftsql" height="50"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019-resources?rtc=2" target="_blank"><img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="microsoftsql" height="50"/></a>
 <a href="https://www.postgresql.org/docs/online-resources/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
-
 </div>
 
 </td><td valign="top" width="33%">
