@@ -1,66 +1,4 @@
-<!--
-```
-888       888          888                                              888
-888   o   888          888                                              888
-888  d8b  888          888                                              888
-888 d888b 888  .d88b.  888  .d8888b .d88b.  88888b.d88b.   .d88b.       888888 .d88b.
-888d88888b888 d8P  Y8b 888 d88P"   d88""88b 888 "888 "88b d8P  Y8b      888   d88""88b
-88888P Y88888 88888888 888 888     888  888 888  888  888 88888888      888   888  888
-8888P   Y8888 Y8b.     888 Y88b.   Y88..88P 888  888  888 Y8b.          Y88b. Y88..88P
-888P     Y888  "Y8888  888  "Y8888P "Y88P"  888  888  888  "Y8888        "Y888 "Y88P"
-
-
-
-888    d8P                    d8b         d8b               .d8888b.  d8b 888    888               888
-888   d8P                     Y8P         88P              d88P  Y88b Y8P 888    888               888
-888  d8P                                  8P               888    888     888    888               888
-888d88K      .d88b.  888  888 888 88888b. "  .d8888b       888        888 888888 88888b.  888  888 88888b.
-8888888b    d8P  Y8b 888  888 888 888 "88b   88K           888  88888 888 888    888 "88b 888  888 888 "88b
-888  Y88b   88888888 Y88  88P 888 888  888   "Y8888b.      888    888 888 888    888  888 888  888 888  888
-888   Y88b  Y8b.      Y8bd8P  888 888  888        X88      Y88b  d88P 888 Y88b.  888  888 Y88b 888 888 d88P
-888    Y88b  "Y8888    Y88P   888 888  888    88888P'       "Y8888P88 888  "Y888 888  888  "Y88888 88888P"
-
-
-```
-
-<!-- - 👀 I’m interested in Data Science
-- 🌱 I’m currently a Data Analyst
-- 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me....
- -->
-<!-- Twitter and LinkedIn badges -->
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-Kevin_Gastelum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-gastelum/)](https://www.linkedin.com/in/kevin-gastelum/)
-[![Twitter Badge](https://img.shields.io/badge/-@KevinGastelum77-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=KevinGastelum77)](https://twitter.com/intent/follow?screen_name=KevinGastelum77)
- -->
-<!-- Shows my stats -->
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p> -->
-
-<!-- My languages and Tools Icons -->
-<!-- <h3 align="left">Languages and Platforms:</h3>
-<p align="left">
-<a href="https://docs.python.org/3.10/tutorial/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://react.dev/learn" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.lua.org/manual/5.4/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> </a>
-
-</p> -->
-
-<!-- Apps I use for learning Icons -->
-<!-- <h3 align="left">My learning apps:</h3>
-<p align="left">
-
-<a href="https://www.codewars.com/users/kevingastelum" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="kevingastelum" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevingastelum" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevingastelum" height="30" width="40" /></a>
-<a href="https://kaggle.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kevingastelum" height="30" width="40" /></a> -->
-
-<!-- <a href="https://www.hackerearth.com/@kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kevingastelum" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="kevingastelum" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kevingastelum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kevingastelum" height="30" width="40" /></a> -->
-<!-- </p>  -->
-
-<!-- ============================ V1 ============================ -->
-<!-- ============================ V1 ============================ -->
+<!-- ============================ KevinGastelum README ============================ -->
 
 <div align="center">
 
@@ -80,7 +18,7 @@ Open to collaborating on interesting and innovative projects.<br>
 </p>
 
 <p align="center">
-  <!-- Astro Boy img -->
+                           <!-- Astro Boy img -->
   <img src="https://media.giphy.com/media/Yo83NpwkA17J1Jkkdk/giphy.gif" width="230">
 </p>
 
@@ -103,10 +41,6 @@ Open to collaborating on interesting and innovative projects.<br>
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.postgresql.org/docs/online-resources/)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://react.dev/learn)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/KevinGastelum)
-
-<!-- [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/KevinGastelum) -->
-<!-- [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/KevinGastelum) -->
-<!-- [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/KevinGastelum) -->
 
 ### ML/DL
 
@@ -145,8 +79,6 @@ Open to collaborating on interesting and innovative projects.<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingastelum&label=Profile%20views&color=0e75b6&style=flat" alt="kevingastelum" /> </p>
 
 <table><tr><td valign="top" width="33%">
-
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kevingastelum&show_icons=true&locale=en" alt="kevingastelum" /></p> -->
 
 ### Frontend
 
@@ -197,3 +129,28 @@ Open to collaborating on interesting and innovative projects.<br>
 <br/>
 
 </details>
+
+<!-- - 👀 I’m interested in Data Science
+- 🌱 I’m currently a Data Analyst
+- 💞️ I’m looking to collaborate on anything and everything
+- 📫 How to reach me....
+ -->
+<!-- Twitter and LinkedIn badges -->
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-Kevin_Gastelum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-gastelum/)](https://www.linkedin.com/in/kevin-gastelum/)
+[![Twitter Badge](https://img.shields.io/badge/-@KevinGastelum77-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=KevinGastelum77)](https://twitter.com/intent/follow?screen_name=KevinGastelum77)
+ -->
+
+<!-- Apps I use for learning Icons -->
+<!-- <h3 align="left">My learning apps:</h3>
+<p align="left">
+
+<a href="https://www.codewars.com/users/kevingastelum" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="kevingastelum" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevingastelum" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevingastelum" height="30" width="40" /></a>
+<a href="https://kaggle.com/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kevingastelum" height="30" width="40" /></a> -->
+
+<!-- <a href="https://www.hackerearth.com/@kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kevingastelum" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/kevingastelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="kevingastelum" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kevingastelum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kevingastelum" height="30" width="40" /></a> -->
+<!-- </p>  -->
