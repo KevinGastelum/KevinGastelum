@@ -83,7 +83,7 @@
 <b>Welcome to my page!</b><br><br>
 <i>
 I'm currently a Data Analyst learning Data Science, Automation, ML, Python and SQL.<br>
-Open to collaborating on interesting and innovative projects.<br>
+Open to collaborating on interesting and innovative projects 💞️.<br>
 </i><br>
 
 <!-- - 👀 I’m interested in Data Science
