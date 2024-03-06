@@ -71,8 +71,7 @@
 
 <!-- ============================ V1 ============================ -->
 <!-- ============================ V1 ============================ -->
-<!-- ============================ V1 ============================ -->
-<!-- <h1 align="center">Hi, everyone! <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2533E&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Kevin+Gastelum!)](https://git.io/typing-svg)" width="28px" alt="👋"></h1></h1> -->
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2533E&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Kevin+Gastelum!)](https://git.io/typing-svg)
@@ -191,8 +190,8 @@ Open to collaborating on interesting and innovative projects 💞️.<br>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a> 
-<a href="http://cppreference.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50"</a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
+
 </div>
 
 </td><td valign="top" width="33%">
