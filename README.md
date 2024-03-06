@@ -151,7 +151,7 @@ Open to collaborating on interesting and innovative projects 💞️.<br>
 ### Frontend
 
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest?cb=20200929195935" alt="powerbi" width="40" height="35"/> </a>
+<a href="https://docs.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest?cb=20200929195935" alt="powerbi" height="50"/> </a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -181,10 +181,9 @@ Open to collaborating on interesting and innovative projects 💞️.<br>
 ### DevOps
 
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://spark.apache.org/docs/latest/quick-start.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/docs/latest/quick-start.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="50"/> </a>
 <a href="https://docs.microsoft.com/en-us/azure/?product=popular" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35"/> </a>
 <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
