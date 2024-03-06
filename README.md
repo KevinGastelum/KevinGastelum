@@ -72,7 +72,7 @@
 <b>Welcome to my page!</b><br><br>
 <i>
 I'm currently a Data Analyst learning Data Science, ML, Automation, Python and SQL.<br>
-Open to collaborating on interesting and innovative projects 💞️.<br>
+Open to collaborating on interesting and innovative projects.<br>
 </i><br>
 
 <h2 align="center">Check out my work</h2>
