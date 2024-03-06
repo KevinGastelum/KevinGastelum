@@ -108,7 +108,7 @@ Open to collaborating on interesting and innovative projects.<br>
 </a>
 </div>
 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
-https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
+<!-- https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript -->
 
 ### Languages
 
