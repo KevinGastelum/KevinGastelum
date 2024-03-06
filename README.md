@@ -82,15 +82,9 @@
 <p align="center">
 <b>Welcome to my page!</b><br><br>
 <i>
-I'm currently a Data Analyst learning Data Science, Automation, ML, Python and SQL.<br>
+I'm currently a Data Analyst learning Data Science, ML, Automation, Python and SQL.<br>
 Open to collaborating on interesting and innovative projects 💞️.<br>
 </i><br>
-
-<!-- - 👀 I’m interested in Data Science
-- 🌱 I’m currently a Data Analyst
-- 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me....
- -->
 
 <h2 align="center">Check out my work</h2>
 <!-- <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:bgosidfjsoi@proton.me">E-Mail</a> to see how I can help you.</p><br /> -->
