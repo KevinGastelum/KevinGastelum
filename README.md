@@ -9,7 +9,7 @@
 <p align="center">
 <b>Welcome to my page!</b><br><br>
 <i>
-I'm currently a Data Analyst learning Data Science, ML, Automation, Python and SQL.<br>
+I'm a Data Analyst with experience in Data Engineering, Data Science, Machine Learning, Automation, Python and SQL.<br>
 Open to collaborating on interesting and innovative projects.<br>
 </i><br>
 
