@@ -28,7 +28,9 @@ Open to collaborating on interesting and innovative projects.<br>
 </a>
 <a href="https://twitter.com/KevinGastelum77" target="_blank">
 <!-- <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> -->
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<!-- <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> -->
+<img src="https://img.shields.io/twitter/url?url=!%5BX%20(formerly%20Twitter)%20URL%5D(https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Furl%3Dhttps%253A%252F%252Fimg.shields.io%252Ftwitter%252Furl%253Furl%253D%25253Cimg%252520alt%25253D%252522X%252520(formerly%252520Twitter)%252520URL%252522%252520src%25253D%252522https%25253A%25252F%25252Fimg.shields.io%25252Ftwitter%25252Furl%252522%25253E)">
+
 </a>
 <a href="https://linkedin.com/in/Kevin-Gastelum/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
