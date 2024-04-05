@@ -41,7 +41,7 @@ Open to collaborating on interesting and innovative projects.<br>
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://docs.python.org/3.10/tutorial/index.html)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.postgresql.org/docs/online-resources/)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://react.dev/learn)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/KevinGastelum)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://devdocs.io/bash/)
 
 ### ML/DL
 
