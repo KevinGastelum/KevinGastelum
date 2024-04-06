@@ -55,7 +55,7 @@ Open to collaborating on interesting and innovative projects.<br>
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://docs.djangoproject.com/en/5.0/)
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/docs)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/learn)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/KevinGastelum)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]()
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/KevinGastelum)
 
